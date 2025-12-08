@@ -11,3 +11,7 @@ Obesity is a significant global health issue and a major risk factor for numerou
 
 ## Methodology
 For this analysis, three machine learning models were employed to classify individuals' obesity risk based on NHANES data. These models include Logistic Regression, K-Nearest Neighbors and Random Forest. The selection allows for a comparison between a straightforward baseline model and a powerful, non-linear classifier to determine the most effective approach for this prediction task. All the coding are deployed in python environment with necessary packages like: numpy, pandas, matplotlib, seaborn and sklearn.
+
+## Dataset
+Daniel López Gutiérrez, NHANES Obesity Data. Kaggle.
+https://www.kaggle.com/datasets/daniellopez01/nhanes-obesity-data
